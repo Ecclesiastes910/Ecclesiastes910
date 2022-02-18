@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ariel Florentino
-- 👀 I’m interested in making church websites
+- 👀 I’m interested in WRITING CODE
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on doctrinal webages
+- 💞️ I’m looking to collaborate on PROJECTS
 - 📫 How to reach me = arielflorentino06@gmail.com
 
 <!---
